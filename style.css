@@ -1,9 +1,9 @@
 /* Style Settings */
-@import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
 :root {
     --bgColor: #2b7fa2;
     --accentColor: white;
-    --font: 'Karla', sans-serif;
+    --font: 'Source Sans Pro', sans-serif;
 }
 
 body{
@@ -44,6 +44,7 @@ body{
     text-align: center;
     margin-bottom: 20px;
     padding: 17px;
+    border-radius: 25px;
     text-decoration: none;
     font-size: 1rem;
     transition: all .25s cubic-bezier(.08,.59,.29,.99);
