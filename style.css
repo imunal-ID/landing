@@ -11,15 +11,14 @@ body{
 }
 
 #userPhoto{
-    width: 96px;
-    height: 96px;
+    width: 291px;
+    height: 164px;
     display: block;
-    margin: 35px auto 20px;
-    border-radius: 50%;
+    margin: auto;
 }
 
 #userName{
-    color: #bbb;
+    color: whitesmoke;
     font-size: 1rem;
     font-weight: 600;
     line-height: 1.25;
@@ -28,6 +27,7 @@ body{
     width: 100%;
     text-align: center;
     text-decoration: none;
+    margin-top: -30px;
 }
 
 #links{
